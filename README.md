@@ -46,6 +46,10 @@ Output:
 * Batman Begins
 * The Dark Knight Rises
 
+## Output Preview
+
+![Project Output](https://github.com/Rony94022/movie-recommendation-system/blob/main/Screenshot_Output.png?raw=true)
+
 ## 📈 Outcome
 
 Built a basic recommendation engine and understood real-world applications of machine learning in entertainment platforms.
